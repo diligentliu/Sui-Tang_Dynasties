@@ -10,5 +10,5 @@
 
 
 
-<p align = "right"><font size = "5" color = "red" face = "楷体" align="right">&#169moshen21，未经许可不得转载</font></p>
+<p align = "right"><b size = "5" color = "red" face = "楷体" align="right">&#169moshen21，未经许可不得转载</b></p>
 
