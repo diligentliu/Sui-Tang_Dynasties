@@ -1,4 +1,4 @@
-# Sui-Tang_Dynasties 
+# Sui and Tang Dynasties 
 
 <font face = "楷体" size = 4 color = "red">2021年6月21日 18:18 :sunny:  :school:西安电子科技大学</font>
 
